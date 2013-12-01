@@ -275,6 +275,12 @@ OBJECT_SHARED Models/Airport/Vehicle/trailer/glider_trailer.ac 11.347262 47.2623
 OBJECT_SHARED Models/Airport/Vehicle/trailer/glider_trailer_swiss_red.ac 11.347263 47.262342 578.2 100
 OBJECT_SHARED Models/Airport/Vehicle/trailer/glider_trailer.ac 11.347273 47.262315 578.2 104
 
+OBJECT_SHARED Models/Airport/Vehicle/trailer/glider_trailer_flyfree.ac 11.34770007 47.26237864 577.9975 0.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/trailer/glider_trailer_isv.ac 11.34774597 47.26237629 577.9796 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/trailer/glider_trailer_open.ac 11.34781869 47.26236802 577.9425 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/trailer/glider_trailer_open_isv.ac 11.34738460 47.26187602 578.1903 76.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/van_silver.ac 11.34729129 47.26190017 578.1782 56.0 0.0 -0.0
+
 OBJECT_STATIC AI/Aircraft/centrair-101/Centrair-101-F-CHGR.xml 11.344694 47.26215 579.42 191.1
 OBJECT_STATIC AI/Aircraft/centrair-101/Centrair-101-PH-795.xml 11.344929 47.262156 579.32 180
 OBJECT_STATIC AI/Aircraft/centrair-101/Centrair-101-OM-1725.xml 11.3477 47.261904 578.04 165.4
